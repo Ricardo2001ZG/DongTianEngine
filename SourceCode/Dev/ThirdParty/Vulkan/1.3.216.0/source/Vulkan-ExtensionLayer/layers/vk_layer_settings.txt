@@ -1,0 +1,15 @@
+# The settings in this file can be used to configure the behavior of
+# layers in this repository.
+#
+# Note that this file is not regulary updated, so not all possible layer
+# settings may be listed, and some layer settings may even be obsolete.
+
+# VK_LAYER_KHRONOS_synchronization2
+
+# Force Enable
+# =====================
+# <LayerIdentifier>.force_enable
+# Force the layer to be active even if the underlying driver also implements the
+# synchonization2 extension.
+khronos_synchronization2.force_enable = false
+

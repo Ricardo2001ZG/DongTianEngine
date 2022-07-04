@@ -1,0 +1,3 @@
+# VulkanSDK gitignore
+x86_64/bin/*
+x86_64/lib/*
